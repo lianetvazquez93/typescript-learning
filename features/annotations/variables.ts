@@ -1,17 +1,17 @@
-let apples: number = 5;
+let apples: number;
+apples = 5;
 
-apples = 10;
+let speed = "fast";
 
-let speed: string = "fast";
+let hasName = true;
 
-let hasName: boolean = true;
+let nothingMuch = null;
 
-let nothingMuch: null = null;
-
-let nothing: undefined = undefined;
+let nothing = undefined;
 
 //built in objects
-let now: Date = new Date();
+let now: Date;
+now = new Date();
 
 //Array
 let colors: string[] = ["red", "green", "blue"];
