@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Summary = void 0;
 var WinsAnalysis_1 = require("./analyzers/WinsAnalysis");
 var HtmlReport_1 = require("./reportTargets/HtmlReport");
 var Summary = /** @class */ (function () {

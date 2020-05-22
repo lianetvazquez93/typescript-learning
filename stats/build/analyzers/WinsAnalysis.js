@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.WinsAnalysis = void 0;
 var MatchResult_1 = require("../MatchResult");
 var WinsAnalysis = /** @class */ (function () {
     function WinsAnalysis(team) {
